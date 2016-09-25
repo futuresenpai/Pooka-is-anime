@@ -1,0 +1,14 @@
+h1 {
+color:orange;
+font:15;
+font-size: 72px;
+border-style: solid;
+}
+
+h1:hover {
+  color:pink
+}
+
+h4 {
+color:blue
+}
